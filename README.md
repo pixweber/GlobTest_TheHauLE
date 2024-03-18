@@ -16,11 +16,11 @@
 Le challenge, si vous l'acceptez, serait d'aider Echo à comprendre ce que fait cette fonction et à la recoder. Vous êtes partant ? ;)
 
 ### Question 1
-
 Expliquez, en quelques lignes, ce que fait cette fonction.
 
-### Question 2
+=> *Cette fonction foo devrait prendre une liste d'intervalles en entrée et retourner une liste d'intervalles où tous les intervalles chevauchants sont fusionnés en un seul intervalle.*
 
+### Question 2
 Codez cette fonction (idéalement en CLI) en utilisant le langage PHP ou JavaScript.
 Merci de fournir un fichier contenant :
 
@@ -28,9 +28,12 @@ Merci de fournir un fichier contenant :
 - l'appel de la fonction, avec un jeu de test en entrée,
 - l'affichage du résultat en sortie.
 
-### Question 3
+=> *Je vous invite à consulter le fichier foo.php et à exécuter le code en console avec la commande 'php foo.php'.* 
 
+### Question 3
 Précisez en combien de temps vous avez implémenté cette fonction.
+
+=> *J'ai mis au total une trentaine de minutes pour implémenter cette fonction, dont 5 minutes pour trouver la logique. Au début, j'ai pensé aux séquences comme Fibonacci, mais ce n'était pas le cas. Je me suis ensuite rendu compte qu'il s'agissait plutôt de fusionner les intervalles qui se chevauchent*
 
 ## Merci
 
